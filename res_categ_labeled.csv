@@ -1,0 +1,34 @@
+restaurant_category,order_date,is_main_dish
+À La Carte,26977,1
+Rice Dish,24427,1
+North East,22397,1
+Café/Coffee Shop,20377,0
+Noodles,20143,1
+Thai,18977,1
+Bakery/Cake,11532,0
+Dessert,10741,0
+Bubble Milk Tea,8713,0
+Delivery Only,8409,1
+Pizza,7551,1
+Seafood,6242,1
+Late Night Rice Porridge,5746,1
+Steak House/Barbeque,5536,1
+Sukiyaki/Shabu,4917,1
+Northern Food,4021,1
+Chinese,4009,1
+Juice/Coffee/Tea/Soft drinks,3425,0
+Street Food/Food Stands,2647,0
+Fusion Food,2175,1
+Moo Kata,1965,1
+Healthy Food,1947,1
+Fastfood,1930,1
+Sushi,1839,1
+Burger,1807,1
+Muslim,1689,1
+Buffet,1264,1
+Southern Food,1158,1
+Barbeque/Grill,1098,1
+Vietnam,920,1
+Vegan,789,1
+Ice Cream,416,0
+Japanese,358,1
